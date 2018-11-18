@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Budding **code**-human in the following languages: **Ruby**, _Rails_, **JavaScript**, _React_, _Redux_, and more to come! _Neuroscience_ researcher, _marketing_ professional, copyeditor, _climbing_ instructor, and playwright.
